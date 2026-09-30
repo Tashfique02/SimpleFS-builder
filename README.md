@@ -1,10 +1,5 @@
 CSE 321: Operating Systems
 SimpleFS Lab Term Project - Summer 2026
-README
-
-Group Number   : 8
-Student ID(s)  : 22299141   Nafisa Hasan
-                 23101205   Mohammed Tashfiqul Islam
 
 ------------------------------------------------------------
 FILES SUBMITTED
